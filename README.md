@@ -2,10 +2,11 @@
 Following an interesting insight I uncovered while analysing the Global Wealth Distribution Analysis of the 2024 Forbes Top 200 Richest Billionaires, I advised a friend to consider exploring career opportunities in the telecom industry. 
 
 ## **Introduction**
+<img width="1280" height="720" alt="Overview image" src="https://github.com/user-attachments/assets/cb57956d-ffdc-410b-83fd-25c422249b44" />
 The Management of my organisation, a Global Financial Research Organisation, assigned me the responsibility of analysing the 2024 Forbes ranking of the World's Top 200 Richest Billionaires as part of a financial research project, with the objective of providing insights into global wealth distribution, geographical representation, industry concentration and demographic characteristics.
 
 ## **About Dataset**
-The dataset captured essential information of the top 200 billionaires, including their net worth, global ranking, names, countries of origin, ages, and industries.
+The dataset which was obtained from kaggle,captured essential information of the top 200 billionaires, including their net worth, global ranking, names, countries of origin, ages, and industries.[download here](https://www.kaggle.com/datasets/mayankanand2701/top-200-richest-worlds-billionaires-dataset?resource=download)
 
 ## **Methodology**
 The analysis was conducted using Structured Query Language (SQL), beginning with database and table creation, followed by data importation and preliminary data cleaning. Subsequently, relevant analytical queries were used to perform calculated metrics involving aggregate functions, group by, where, order by, case when, filtering, and subqueries were applied to generate the required insights.
